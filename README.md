@@ -6,3 +6,5 @@
 [Exc3](https://github.com/grm000/architecture-sprint-7/blob/sprint-7/Exc3)
 # Задание 4. Защита доступа к кластеру Kubernetes
 [Exc4](https://github.com/grm000/architecture-sprint-7/blob/sprint-7/Exc4)
+# Задание 5. Управление трафиком внутри кластера Kubertnetes
+[Exc5](https://github.com/grm000/architecture-sprint-7/blob/sprint-7/Exc5)
