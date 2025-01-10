@@ -4,3 +4,5 @@
 [Exc2](https://github.com/grm000/architecture-sprint-7/blob/sprint-7/Exc2)
 # Задание 3. Внешние интеграции
 [Exc3](https://github.com/grm000/architecture-sprint-7/blob/sprint-7/Exc3)
+# Задание 4. Защита доступа к кластеру Kubernetes
+[Exc4](https://github.com/grm000/architecture-sprint-7/blob/sprint-7/Exc4)
